@@ -273,7 +273,7 @@ msgid "Planar"
 msgstr ""
 
 msgid "Dovetail"
-msgstr ""
+msgstr "Schwalbenschwanz"
 
 msgid "Auto"
 msgstr "Automatisch"
@@ -288,10 +288,10 @@ msgid "Dowel"
 msgstr "Dübel"
 
 msgid "Snap"
-msgstr ""
+msgstr "Schnappen"
 
 msgid "Prism"
-msgstr ""
+msgstr "Prisma"
 
 msgid "Frustum"
 msgstr "Frustum"
@@ -303,13 +303,13 @@ msgid "Hexagon"
 msgstr "Sechseck"
 
 msgid "Keep orientation"
-msgstr ""
+msgstr "Ausrichtung beibehalten"
 
 msgid "Place on cut"
 msgstr "auf den Schnitt legen"
 
 msgid "Flip upside down"
-msgstr ""
+msgstr "auf den Kopf stellen"
 
 msgid "Connectors"
 msgstr "Verbinder"
@@ -327,19 +327,19 @@ msgstr "Form"
 #. Size in emboss direction
 #. TRN - Input label. Be short as possible
 msgid "Depth"
-msgstr ""
+msgstr "Tiefe"
 
 msgid "Groove"
-msgstr ""
+msgstr "Nut"
 
 msgid "Width"
 msgstr "Breite"
 
 msgid "Flap Angle"
-msgstr ""
+msgstr "Laschenwinkel"
 
 msgid "Groove Angle"
-msgstr ""
+msgstr "Nutwinkel"
 
 msgid "Part"
 msgstr "Teil"
@@ -359,13 +359,13 @@ msgid ""
 msgstr ""
 
 msgid "Move cut plane"
-msgstr ""
+msgstr "Schnittebene bewegen"
 
 msgid "Mode"
-msgstr ""
+msgstr "Modus"
 
 msgid "Change cut mode"
-msgstr ""
+msgstr "Ändere Schnittmodus"
 
 msgid "Tolerance"
 msgstr "Toleranz"
@@ -374,7 +374,7 @@ msgid "Drag"
 msgstr "Ziehen"
 
 msgid "Draw cut line"
-msgstr ""
+msgstr "Schnittlinie zeichnen"
 
 msgid "Left click"
 msgstr "Linksklick"
@@ -404,16 +404,16 @@ msgid "Cut"
 msgstr "Schneiden"
 
 msgid "Rotate cut plane"
-msgstr ""
+msgstr "Schnittfläche drehen"
 
 msgid "Remove connectors"
 msgstr "Verbinder entfernen"
 
 msgid "Bulge"
-msgstr ""
+msgstr "Ausbuchutng"
 
 msgid "Bulge proportion related to radius"
-msgstr ""
+msgstr "Anteil der Ausbuchtung im Verhältnis zum Radius"
 
 msgid "Space"
 msgstr "Platz"
@@ -431,10 +431,10 @@ msgid "Build Volume"
 msgstr ""
 
 msgid "Flip cut plane"
-msgstr ""
+msgstr "Schnitteben Spiegeln"
 
 msgid "Groove change"
-msgstr ""
+msgstr "Nutänderung"
 
 msgid "Reset"
 msgstr "Zurücksetzen"
@@ -444,10 +444,10 @@ msgid "Edited"
 msgstr ""
 
 msgid "Cut position"
-msgstr ""
+msgstr "Position des Schnitts"
 
 msgid "Reset cutting plane"
-msgstr ""
+msgstr "Schnitteben zurücksetzen"
 
 msgid "Edit connectors"
 msgstr "Verbinder ändern"
@@ -456,10 +456,10 @@ msgid "Add connectors"
 msgstr "Verbinder zufügen"
 
 msgid "Reset cut"
-msgstr ""
+msgstr "Schnitt zurücksetzen"
 
 msgid "Reset cutting plane and remove connectors"
-msgstr ""
+msgstr "Schnitteben zurücksetzen und Verbinder entfernen"
 
 msgid "Upper part"
 msgstr "Oberes Teil"
@@ -666,46 +666,46 @@ msgid "Text shape"
 msgstr "Text zufügen"
 
 msgid "Set Mirror"
-msgstr ""
+msgstr "Spiegel einstellen"
 
 msgid "Embossed text"
-msgstr ""
+msgstr "Geprägte Schrift"
 
 msgid "Enter emboss gizmo"
-msgstr ""
+msgstr "Prägewerkzeug eingeben"
 
 msgid "Leave emboss gizmo"
-msgstr ""
+msgstr "Prägewerkzeug verlassen"
 
 msgid "Embossing actions"
-msgstr ""
+msgstr "Prägevorgänge"
 
 msgid "Emboss"
-msgstr ""
+msgstr "Prägen"
 
 msgid "Text-Rotate"
-msgstr ""
+msgstr "Text rotieren"
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "SMALL"
-msgstr ""
+msgstr "KLEIN"
 
 msgid "ITALIC"
-msgstr ""
+msgstr "ITALIC"
 
 msgid "SWISS"
-msgstr ""
+msgstr "SWISS"
 
 msgid "MODERN"
-msgstr ""
+msgstr "MODERN"
 
 msgid "First font"
-msgstr ""
+msgstr "Erste Schriftart"
 
 msgid "Default font"
-msgstr ""
+msgstr "Standard Schriftart"
 
 msgid "Advanced"
 msgstr "Erweiterte Einstellungen"
@@ -1002,7 +1002,7 @@ msgid ""
 msgstr ""
 
 msgid "No symbol"
-msgstr ""
+msgstr "Kein Symbol"
 
 msgid "Loading"
 msgstr "Lade"
@@ -1121,7 +1121,7 @@ msgstr ""
 
 #, boost-format
 msgid "Shape is marked as invisible (%1%)."
-msgstr "Shape ist als unsichtbar markiert (%1%)."
+msgstr "Form ist als unsichtbar markiert (%1%)."
 
 #. TRN: The first placeholder is shape identifier, the second one is text describing the problem.
 #, boost-format
@@ -1130,11 +1130,11 @@ msgstr "Füllung der Form (%1%) enthält nicht unterstützte: %2%."
 
 #, boost-format
 msgid "Stroke of shape (%1%) is too thin (minimal width is %2% mm)."
-msgstr "Striche der Form (%1%) ist zu dünn (minimale Breite ist %2% mm)."
+msgstr "Strich der Form (%1%) ist zu dünn (minimale Breite ist %2% mm)."
 
 #, boost-format
 msgid "Stroke of shape (%1%) contains unsupported: %2%."
-msgstr "Striche der Form (%1%) enthält nicht unterstützte: %2%."
+msgstr "Strich der Form (%1%) enthält nicht unterstützte: %2%."
 
 msgid "Face the camera"
 msgstr "Gesicht zur Kamera"
@@ -1163,7 +1163,7 @@ msgid ""
 "Do NOT save local path to 3MF file.\n"
 "Also disables 'reload from disk' option."
 msgstr ""
-"Lokalen Pfad nicht in 3MF-Datei speichern.\n"
+"Lokalen Pfad NICHT in 3MF-Datei speichern.\n"
 "Deaktiviert auch die Option 'Von Festplatte neu laden'."
 
 #. TRN: An menu option to convert the SVG into an unmodifiable model part.
@@ -1259,37 +1259,37 @@ msgid "Edge"
 msgstr ""
 
 msgid "Plane"
-msgstr ""
+msgstr "Ebene"
 
 msgid "Point on edge"
-msgstr ""
+msgstr "Punkt an Kante"
 
 msgid "Point on circle"
-msgstr ""
+msgstr "Punkt auf Kreis"
 
 msgid "Point on plane"
-msgstr ""
+msgstr "Punkt auf Ebene"
 
 msgid "Center of edge"
-msgstr ""
+msgstr "Kantenmittelpunkt"
 
 msgid "Center of circle"
-msgstr ""
+msgstr "Kreismittelpunkt"
 
 msgid "ShiftLeft mouse button"
 msgstr ""
 
 msgid "Select feature"
-msgstr ""
+msgstr "Funktion wählen"
 
 msgid "Select point"
-msgstr ""
+msgstr "Punkt wählen"
 
 msgid "Delete"
 msgstr "Löschen"
 
 msgid "Restart selection"
-msgstr ""
+msgstr "Auswahl neustarten"
 
 msgid "Esc"
 msgstr "Esc"
@@ -1298,14 +1298,14 @@ msgid "Unselect"
 msgstr ""
 
 msgid "Measure"
-msgstr ""
+msgstr "Messen"
 
 msgid "Edit to scale"
 msgstr ""
 
 msgctxt "Verb"
 msgid "Scale"
-msgstr ""
+msgstr "Maßstab"
 
 msgid "None"
 msgstr "Keine"
@@ -1317,22 +1317,22 @@ msgid "Length"
 msgstr "Länge"
 
 msgid "Selection"
-msgstr ""
+msgstr "Auswahl"
 
 msgid "Copy to clipboard"
 msgstr "In Zwischenablage kopieren"
 
 msgid "Perpendicular distance"
-msgstr ""
+msgstr "Rechtwinkliger Abstand"
 
 msgid "Distance"
-msgstr ""
+msgstr "Abstand"
 
 msgid "Direct distance"
-msgstr ""
+msgstr "Direkter Abstand"
 
 msgid "Distance XYZ"
-msgstr ""
+msgstr "Abstand XYZ"
 
 msgid "Ctrl+"
 msgstr "Strg +"
